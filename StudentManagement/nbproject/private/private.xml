@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/controller/StuCourseController.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/model/Teacher.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/TeacherDetails.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/PaymentDetails.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/model/Payment.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/controller/TeachCourseController.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/controller/PaymentController.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/Startup.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/controller/AdminController.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/model/StuCourses.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/AdminDetails.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/Notices.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/model/Admin.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/model/Course.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/MaiinWndow.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/model/Student.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/StudentDetails.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/controller/NoticeController.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/controller/TeacherController.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/model/TeachCourses.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/Courses.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/model/Notice.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/util/DB.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/controller/StudentController.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/StudentsWithStuCourses.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/view/TeacherWithCourses.java</file>
+            <file>file:/D:/IMjava/JAVA%20SE%20assignment/StudentManagement/src/com/industrialmaster/stms/controller/CourseController.java</file>
+        </group>
+    </open-files>
+</project-private>
